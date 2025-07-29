@@ -1,4 +1,4 @@
 # Presentation
 
-**[Slides](name_of_your_file_including_the_presentation_slides)**
-       FINAL _PRESENTATION
+**[Slides](04_Presentation/FINAL_PRESENTATION.pptx)**  
+FINAL_PRESENTATION
