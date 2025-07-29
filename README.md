@@ -31,6 +31,12 @@ Regression
 5.  [**Model Definition and Evaluation**](3_Model/)
 6.  [**Presentation**](4_Presentation/README.md)
 
+## Authors
+
+- Harishwar Reddy – Initial work, data preparation, baseline model development.
+- Kollu Ramya – Neural network model development, model evaluation.
+
+
 ## Cover Image
 
 ![](CoverImage/cover_image.png)
